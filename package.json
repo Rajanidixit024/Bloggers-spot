@@ -1,0 +1,28 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "main": "file.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node server.js"
+  },
+  "author": "naina dixit",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.3.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rajanidixit024/Blogs.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Rajanidixit024/Blogs.com/issues"
+  },
+  "homepage": "https://github.com/Rajanidixit024/Blogs.com#readme",
+  "description": ""
+}
